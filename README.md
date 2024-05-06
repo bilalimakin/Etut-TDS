@@ -12,4 +12,6 @@ Etüt - Tıbbi Dokümantasyon ve Sekreterlik Quiz App
 ## 4- Quiz - Quiz/Test Arayüzünün Oluşturulması.
 ![alt](img/4.png)
 
+## 5- Quiz - Quiz Sonuc/Test Sonuç Arayüzünün Oluşturulması.
+![alt](img/5.png)
 
