@@ -15,3 +15,6 @@ Etüt - Tıbbi Dokümantasyon ve Sekreterlik Quiz App
 ## 5- Quiz - Quiz Sonuc/Test Sonuç Arayüzünün Oluşturulması.
 ![alt](img/5.png)
 
+## 6- Developer - Geliştirici Arayüzünün Oluşturulması.
+![alt](img/6.png)
+
