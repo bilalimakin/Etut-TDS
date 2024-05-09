@@ -2,6 +2,8 @@
 plugins {
     alias(libs.plugins.androidApplication)
     alias(libs.plugins.kotlinAndroid)
+    id("com.google.gms.google-services")
+    id("kotlin-parcelize")
 }
 
 android {
@@ -12,8 +14,8 @@ android {
         applicationId = "com.baakademy.etttds"
         minSdk = 24
         targetSdk = 34
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 3
+        versionName = "1.03"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -45,4 +47,20 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.test.ext.junit)
     androidTestImplementation(libs.espresso.core)
+
+
+
+
+    implementation(platform("com.google.firebase:firebase-bom:33.0.0"))
+    //noinspection UseTomlInstead
+    implementation("com.google.firebase:firebase-firestore")
+
+    //noinspection UseTomlInstead
+    implementation("com.google.firebase:firebase-analytics")
+    //noinspection UseTomlInstead
+    implementation("com.google.firebase:firebase-auth")
+    implementation(libs.circleimageview)
+    implementation(libs.picasso)
+    implementation(libs.androidx.gridlayout)
+    implementation(libs.androidx.preference)
 }

@@ -1,5 +1,7 @@
 [versions]
 agp = "8.2.2"
+circleimageview = "3.1.0"
+gridlayout = "1.0.0"
 kotlin = "1.9.22"
 core-ktx = "1.13.0"
 junit = "4.13.2"
@@ -8,8 +10,13 @@ espresso-core = "3.5.1"
 appcompat = "1.6.1"
 material = "1.11.0"
 constraintlayout = "2.1.4"
+picasso = "2.8"
+preference = "1.2.0"
 
 [libraries]
+androidx-preference = { module = "androidx.preference:preference", version.ref = "preference" }
+androidx-gridlayout = { module = "androidx.gridlayout:gridlayout", version.ref = "gridlayout" }
+circleimageview = { module = "de.hdodenhof:circleimageview", version.ref = "circleimageview" }
 core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "core-ktx" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
 androidx-test-ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "androidx-test-ext-junit" }
@@ -17,6 +24,7 @@ espresso-core = { group = "androidx.test.espresso", name = "espresso-core", vers
 appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
 material = { group = "com.google.android.material", name = "material", version.ref = "material" }
 constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+picasso = { module = "com.squareup.picasso:picasso", version.ref = "picasso" }
 
 [plugins]
 androidApplication = { id = "com.android.application", version.ref = "agp" }
