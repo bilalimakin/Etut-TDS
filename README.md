@@ -22,4 +22,3 @@ Etüt - Tıbbi Dokümantasyon ve Sekreterlik Quiz App
 ![alt](img/7.png)
 
 ## 8- Developer FireStore - FireStoreye Soru Ekleme Bağlantıları Oluşturuldu.
-![alt](img/7.png)
