@@ -20,3 +20,6 @@ Etüt - Tıbbi Dokümantasyon ve Sekreterlik Quiz App
 
 ## 7- Developer Login - Geliştirici Arayüzüne Giriş Oluşturulması ve Bağlantının Sağlanması.
 ![alt](img/7.png)
+
+## 8- Developer FireStore - FireStoreye Soru Ekleme Bağlantıları Oluşturuldu.
+![alt](img/7.png)
