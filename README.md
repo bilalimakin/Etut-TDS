@@ -7,18 +7,22 @@ Etüt - Tıbbi Dokümantasyon ve Sekreterlik Quiz App
 ![alt](img/1.png)
 
 ## 3- AnaSayfa - Ders Listesinin Hazırlanması.
-![alt](img/2.png)
+![alt](img/2.jpg)
 
 ## 4- Quiz - Quiz/Test Arayüzünün Oluşturulması.
-![alt](img/4.png)
+![alt](img/3.jpg)
 
 ## 5- Quiz - Quiz Sonuc/Test Sonuç Arayüzünün Oluşturulması.
-![alt](img/5.png)
+![alt](img/4.jpg)
 
 ## 6- Developer - Geliştirici Arayüzünün Oluşturulması.
-![alt](img/6.png)
+![alt](img/5.jpg)
 
 ## 7- Developer Login - Geliştirici Arayüzüne Giriş Oluşturulması ve Bağlantının Sağlanması.
-![alt](img/7.png)
+![alt](img/6.jpg)
 
 ## 8- Developer FireStore - FireStoreye Soru Ekleme Bağlantıları Oluşturuldu.
+![alt](img/7.jpg)
+
+## 9- TDS Quiz Yayın Testine Başlatıldı.
+![alt](img/8.jpg)

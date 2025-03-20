@@ -8,14 +8,14 @@ plugins {
 
 android {
     namespace = "com.baakademy.etttds"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.baakademy.etttds"
         minSdk = 24
-        targetSdk = 34
-        versionCode = 3
-        versionName = "1.03"
+        targetSdk = 35
+        versionCode = 4
+        versionName = "1.0.4"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -44,6 +44,7 @@ dependencies {
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.constraintlayout)
+    implementation(libs.androidx.activity)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.test.ext.junit)
     androidTestImplementation(libs.espresso.core)
