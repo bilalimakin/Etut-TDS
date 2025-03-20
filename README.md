@@ -26,3 +26,5 @@ Etüt - Tıbbi Dokümantasyon ve Sekreterlik Quiz App
 
 ## 9- TDS Quiz Yayın Testine Başlatıldı.
 ![alt](img/8.jpg)
+
+-> Test Apk Yayın Linki: [TDS Quiz App](https://play.google.com/apps/internaltest/4701420823027206860)
